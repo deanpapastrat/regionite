@@ -1,5 +1,7 @@
 require 'bundler/setup'
 require 'regionite'
+require 'regionite/country'
+require 'regionite/region'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
